@@ -6,6 +6,13 @@ Esse repositório serve para documentar a `organização` dos nossos eventos.
 
 Aqui não teremos informações sobre um evento específico (como o de 2017, 2018, 2019, por exemplo), mas a `maneira de se montar` um hackathon estilo o nosso, garantindo assim que qualquer pessoa possa "copiar" nosso modelo e criar os seus próprios hackathon's.
 
+## Organização geral
+
+A organização do evento conta com uma `bancada organizadora` e uma `bancada avaliadora` onde:
+
+* a bancada organizadora é constituída pelas pessoas que fazem o evento acontecer, como responsáveis pelo site, divulgação, organização e resposta a dúvidas das pessoas que competirão.
+* a bancada avaliadora é um time de pessoas com alto skill técnico que irá votar nos melhores projetos entregues pelas pessoas que estão competindo
+
 ## 1 - Formato
 
 Nosso evento é 100% online.
