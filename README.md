@@ -52,3 +52,13 @@ Para que isso não aconteça, as pessoas deverão se comunicar bem antes de mont
 Cada `equipe` deverá apoiar o evento com uma cota de R$ 50,00 (cinquenta reais) que serão convertidos nos brindes e prêmios do evento.
 
 Esse valor dividido entre as 5 pessoas sai mais barato, então procure montar o time completo! ;D
+
+## 2 - Avaliação de vencedores
+
+A bancada avaliadora conta com um time de 4 pessoas sendo 2 homens e 2 mulheres e 1 voto é da comunidade.
+
+## 2.1 - como funcionará o voto comunitário
+
+A bancada avaliadora elenca 5 projetos `finalistas` e desses 5 somente 3 serão `vencedores` tendo primeiro, segundo e terceiro lugar.
+
+A decisão final de `vencedores` funcionará via issue no repositório da edição do evento onde a bancada avaliadora irá criar uma issue com os nomes das equipes e em seguida colocar 5 respostas, como [nesse exemplo](https://github.com/training-center/hackathon/issues/4).
