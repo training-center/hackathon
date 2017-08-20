@@ -103,3 +103,13 @@ A pessoa que estiver mentorando o time deve ficar nesse canal para ajudar a tira
 ## 5 - Tema
 
 O tema do evento deverá ser aberto ao público no dia da competição e seus requisitos devem estar em um documento de fácil acesso no repositório da edição.
+
+## 6 - Apoio
+
+Você pode apoiar o evento ajudando na organização, divulgação, financeiramente ou com brindes para distribuirmos entre os participantes.
+
+As empresas apoiadoras do evento terão espaço de divulgação no site da edição.
+
+Outros canais de divulgação, como podcasts, apoiadores também terão espaço de divulgação no site da edição.
+
+As pessoas que apoiarem financeiramente o evento terão espaço de divulgação no repositório do projeto.
