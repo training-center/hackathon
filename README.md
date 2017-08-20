@@ -39,3 +39,9 @@ As pessoas de um mesmo time não podem todas possuir o mesmo tempo de experiênc
 Ex.: todas as 5 pessoas com 3 anos de XP, enquanto um outro time pussui somente pessoas com 1 ano.
 
 Para que isso não aconteça, as pessoas deverão se comunicar bem antes de montar o time, mas podem possuir até 2 pessoas com o mesmo tempo de XP.
+
+## 1.4 - cota de participação
+
+Cada `equipe` deverá apoiar o evento com uma cota de R$ 50,00 (cinquenta reais) que serão convertidos nos brindes e prêmios do evento.
+
+Esse valor dividido entre as 5 pessoas sai mais barato, então procure montar o time completo! ;D
