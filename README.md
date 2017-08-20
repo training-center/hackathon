@@ -37,6 +37,8 @@ No repositório da edição teremos um documento com os times formados, e quem n
 
 Cada time irá contar com uma pessoa mentorando o grupo (não necessáriamente alguém do projeto Mentoria) para auxiliar em pequenas dúvidas, mas não podendo escrever código.
 
+> __Importante__: Esta pessoa deverá possuir apenas acesso de __Leitura__ no repositório da equipe, ela será responsável por encaminhar o projeto à bancada avaliadora no final do período.
+
 ## 1.3 - quem pode participar
 
 Só podem concorrer pessoas com até, no máximo, 3 anos de experiência.
