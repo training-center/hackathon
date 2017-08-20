@@ -35,6 +35,8 @@ As pessoas irão se inscrever via formulário (TypeForm, Google Forms, etc) some
 
 No repositório da edição teremos um documento com os times formados e quem não tiver um time terá seu nome listado para que as pessoas puxem para suas equipes.
 
+Cada time irá contar com uma pessoa mentorando o grupo (não necessáriamente alguém do projeto Mentoria) para auxiliar em pequenas dúvidas, mas não podendo escrever código.
+
 ## 1.3 - quem pode participar
 
 Só podem concorrer pessoas com até, no máximo, 3 anos de experiência.
