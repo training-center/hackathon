@@ -62,3 +62,12 @@ A bancada avaliadora conta com um time de 4 pessoas sendo 2 homens e 2 mulheres 
 A bancada avaliadora elenca 5 projetos `finalistas` e desses 5 somente 3 serão `vencedores` tendo primeiro, segundo e terceiro lugar.
 
 A decisão final de `vencedores` funcionará via issue no repositório da edição do evento onde a bancada avaliadora irá criar uma issue com os nomes das equipes e em seguida colocar 5 respostas, como [nesse exemplo](https://github.com/training-center/hackathon/issues/4).
+
+## 2.2 - critérios de avaliação
+
+1. uma boa experiência de usuário
+1. produto fluindo sem bugs (o projeto tem que funcionar)
+1. resolver bem o problema proposto (atendeu aos critérios informados antes da competição começar)
+1. código bem feito, escalável e manutenível
+
+Sendo que o peso da pontuação é exatamente o da ordem da lista acima. Ou seja, o produto final precisa apresentar uma boa experiência de usuário e funcionar perfeitamente.
