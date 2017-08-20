@@ -71,3 +71,7 @@ A decisão final de `vencedores` funcionará via issue no repositório da ediç�
 1. código bem feito, escalável e manutenível
 
 Sendo que o peso da pontuação é exatamente o da ordem da lista acima. Ou seja, o produto final precisa apresentar uma boa experiência de usuário e funcionar perfeitamente.
+
+## 2.3 - vendendo o peixe
+
+Cada time precisará entregar, junto com o seu projeto, um vídeo de 5 minutos explicando o produto e vendendo seu peixe para a bancada avaliadora e para a comunidade. Precisa dizer por que o seu produto é o melhor.
