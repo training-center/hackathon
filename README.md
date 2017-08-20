@@ -75,3 +75,9 @@ Sendo que o peso da pontuação é exatamente o da ordem da lista acima. Ou seja
 ## 2.3 - vendendo o peixe
 
 Cada time precisará entregar, junto com o seu projeto, um vídeo de 5 minutos explicando o produto e vendendo seu peixe para a bancada avaliadora e para a comunidade. Precisa dizer por que o seu produto é o melhor.
+
+## 3 - Premiação
+
+As 5 equipes finalistas irão receber prêmios de participação (brindes variados) e as 3 finalistas irão receber prêmios diferenciados.
+
+Todas as pessoas que participarem do evento também receberão um brinde da comunidade Training Center referente ao Hackathon (como uma camiseta do evento, por exemplo).
