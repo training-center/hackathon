@@ -20,3 +20,11 @@ Todo código gerado pelas equipes deve ser hospedado em um repositório `privado
 
 No repositório da edição (2017, 2018, 2019, etc) deixaremos uma lista de nomes das pessoas que participaram e um local de exposição de quem venceu.
 
+**Times**
+
+Os times serão compostos de 3 à 5 pessoas e será necessário, no mínimo, 5 times para que o evento aconteça.
+
+As pessoas irão se inscrever via formulário (TypeForm, Google Forms, etc) somente para que a organização tenha seus emails de contato, links para redes sociais e habilidades.
+
+No repositório da edição teremos um documento com os times formados e quem não tiver um time terá seu nome listado para que as pessoas puxem para suas equipes.
+
