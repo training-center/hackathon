@@ -53,6 +53,14 @@ Cada `equipe` deverá apoiar o evento com uma cota de R$ 50,00 (cinquenta reais)
 
 Esse valor dividido entre as 5 pessoas sai mais barato, então procure montar o time completo! ;D
 
+## 1.5 - datas
+
+O evento deve começar em uma sexta feira, por volta de 20:00 e terminar em um domingo no mesmo horário.
+
+As 19:30 será disponibilizado um documento explicando quais são os critérios a serem atendidos pelo projeto (requisitos do produto do hackathon).
+
+A bancada avaliadora deve finalizar a avaliação dos projetos em alguns dias, podendo ser de uma semana ou mais dependendo do número de equipes participantes da competição.
+
 ## 2 - Avaliação de vencedores
 
 A bancada avaliadora conta com um time de 4 pessoas sendo 2 homens e 2 mulheres e 1 voto é da comunidade.
