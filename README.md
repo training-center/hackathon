@@ -99,3 +99,7 @@ A comunicação de participantes pode ser feita como acharem melhor... Via Skype
 Sugerímos o uso do Discord por sua boa conexão.
 
 A pessoa que estiver mentorando o time deve ficar nesse canal para ajudar a tirar dúvidas.
+
+## 5 - Tema
+
+O tema do evento deverá ser aberto ao público no dia da competição e seus requisitos devem estar em um documento de fácil acesso no repositório da edição.
