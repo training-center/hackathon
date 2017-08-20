@@ -8,10 +8,10 @@ Aqui não teremos informações sobre um evento específico (como o de 2017, 201
 
 ## Organização geral
 
-A organização do evento conta com uma `bancada organizadora` e uma `bancada avaliadora` onde:
+A organização do evento conta com uma `bancada organizadora` e uma `bancada avaliadora`, onde:
 
 * a bancada organizadora é constituída pelas pessoas que fazem o evento acontecer, como responsáveis pelo site, divulgação, organização e resposta a dúvidas das pessoas que competirão.
-* a bancada avaliadora é um time de pessoas com alto skill técnico que irá votar nos melhores projetos entregues pelas pessoas que estão competindo
+* a bancada avaliadora é um time de pessoas com alto skill técnico que irá votar nos melhores projetos entregues pelas pessoas que estão competindo.
 
 ## 1 - Formato
 
@@ -23,17 +23,17 @@ No dia da entrega dos prêmios, as pessoas que conseguirem fazer isso, podem se 
 
 ## 1.1 - onde armazenar o código durante a competição
 
-Todo código gerado pelas equipes deve ser hospedado em um repositório `privado` e para isso sugerimos o GitHub, GitLab ou Bitbucket e ao finalizar a competição as pessoas podem tornar seus repositórios públicos.
+Todo código gerado pelas equipes deve ser hospedado em um repositório `privado`, e para isso sugerimos o GitHub, GitLab ou Bitbucket, e ao finalizar a competição as pessoas podem tornar seus repositórios públicos.
 
 No repositório da edição (2017, 2018, 2019, etc) deixaremos uma lista de nomes das pessoas que participaram e um local de exposição de quem venceu.
 
 ## 1.2 - times
 
-Os times serão compostos de 3 à 5 pessoas e será necessário, no mínimo, 5 times para que o evento aconteça.
+Os times serão compostos de 3 a 5 pessoas, e será necessário, no mínimo, 5 times para que o evento aconteça.
 
 As pessoas irão se inscrever via formulário (TypeForm, Google Forms, etc) somente para que a organização tenha seus emails de contato, links para redes sociais e habilidades.
 
-No repositório da edição teremos um documento com os times formados e quem não tiver um time terá seu nome listado para que as pessoas puxem para suas equipes.
+No repositório da edição teremos um documento com os times formados, e quem não tiver um time terá seu nome listado para que as pessoas puxem para suas equipes.
 
 Cada time irá contar com uma pessoa mentorando o grupo (não necessáriamente alguém do projeto Mentoria) para auxiliar em pequenas dúvidas, mas não podendo escrever código.
 
@@ -57,21 +57,21 @@ Esse valor dividido entre as 5 pessoas sai mais barato, então procure montar o 
 
 ## 1.5 - datas
 
-O evento deve começar em uma sexta feira, por volta de 20:00 e terminar em um domingo no mesmo horário.
+O evento deve começar em uma sexta-feira, por volta de 20:00, e terminar em um domingo no mesmo horário.
 
-As 19:30 será disponibilizado um documento explicando quais são os critérios a serem atendidos pelo projeto (requisitos do produto do hackathon).
+Às 19:30 da sexta-feira será disponibilizado um documento explicando quais são os critérios a serem atendidos pelo projeto (requisitos do produto do hackathon).
 
-A bancada avaliadora deve finalizar a avaliação dos projetos em alguns dias, podendo ser de uma semana ou mais dependendo do número de equipes participantes da competição.
+A bancada avaliadora deve finalizar a avaliação dos projetos em alguns dias, podendo ser uma semana ou mais, dependendo do número de equipes participantes da competição.
 
 ## 2 - Avaliação de vencedores
 
-A bancada avaliadora conta com um time de 4 pessoas sendo 2 homens e 2 mulheres e 1 voto é da comunidade.
+A bancada avaliadora conta com um time de 4 pessoas, sendo 2 homens e 2 mulheres, e 1 voto é da comunidade.
 
 ## 2.1 - como funcionará o voto comunitário
 
-A bancada avaliadora elenca 5 projetos `finalistas` e desses 5 somente 3 serão `vencedores` tendo primeiro, segundo e terceiro lugar.
+A bancada avaliadora elenca 5 projetos `finalistas`, e desses 5 somente 3 serão `vencedores`, tendo primeiro, segundo e terceiro lugar.
 
-A decisão final de `vencedores` funcionará via issue no repositório da edição do evento onde a bancada avaliadora irá criar uma issue com os nomes das equipes e em seguida colocar 5 respostas, como [nesse exemplo](https://github.com/training-center/hackathon/issues/4).
+A decisão final de `vencedores` funcionará via issue no repositório da edição do evento, onde a bancada avaliadora irá criar uma issue com os nomes das equipes e em seguida colocar 5 respostas, como [nesse exemplo](https://github.com/training-center/hackathon/issues/4).
 
 ## 2.2 - critérios de avaliação
 
@@ -80,7 +80,7 @@ A decisão final de `vencedores` funcionará via issue no repositório da ediç�
 1. resolver bem o problema proposto (atendeu aos critérios informados antes da competição começar)
 1. código bem feito, escalável e manutenível
 
-Sendo que o peso da pontuação é exatamente o da ordem da lista acima. Ou seja, o produto final precisa apresentar uma boa experiência de usuário e funcionar perfeitamente.
+Sendo que o peso da pontuação é exatamente o da ordem da lista acima, ou seja, o produto final precisa apresentar uma boa experiência de usuário e funcionar perfeitamente.
 
 ## 2.3 - vendendo o peixe
 
@@ -94,7 +94,7 @@ Todas as pessoas que participarem do evento também receberão um brinde da comu
 
 ## 4 - Comunicação
 
-A comunicação de participantes pode ser feita como acharem melhor... Via Skype, Hangouts, Appear.in, Discord, etc.
+A comunicação de participantes pode ser feita como acharem melhor, via Skype, Hangouts, Appear.in, Discord, etc.
 
 Sugerímos o uso do Discord por sua boa conexão.
 
