@@ -91,3 +91,11 @@ Cada time precisará entregar, junto com o seu projeto, um vídeo de 5 minutos e
 As 5 equipes finalistas irão receber prêmios de participação (brindes variados) e as 3 finalistas irão receber prêmios diferenciados.
 
 Todas as pessoas que participarem do evento também receberão um brinde da comunidade Training Center referente ao Hackathon (como uma camiseta do evento, por exemplo).
+
+## 4 - Comunicação
+
+A comunicação de participantes pode ser feita como acharem melhor... Via Skype, Hangouts, Appear.in, Discord, etc.
+
+Sugerímos o uso do Discord por sua boa conexão.
+
+A pessoa que estiver mentorando o time deve ficar nesse canal para ajudar a tirar dúvidas.
