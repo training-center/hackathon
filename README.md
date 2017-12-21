@@ -77,10 +77,19 @@ A decisão final de `vencedores` funcionará via issue no repositório da ediç�
 
 ## 2.2 - critérios de avaliação
 
-1. uma boa experiência de usuário
-1. produto fluindo sem bugs (o projeto tem que funcionar)
-1. resolver bem o problema proposto (atendeu aos critérios informados antes da competição começar)
-1. código bem feito, escalável e manutenível
+Após o concurso os mentores terão 5 dias para analisar todos os códigos e darem uma pontuação de 1 a 5 estrelas seguindo os critérios:
+
+1. Clean code e escabilidade :
+produto fluindo sem bugs (o projeto tem que funcionar)
+código bem feito, escalável e manutenível
+
+2. Ideia e como ela resolve o problema proposto
+uma boa experiência de usuário
+resolver bem o problema proposto (atendeu aos critérios informados antes da competição começar)
+
+3. MVP(como a ideia será validada no mercado)
+
+*Após isso os jurados terão 3 dias para analisar os 3 finalistas(que já vão ganhar alguma coisa cada) e escolher o vencedor. Os jurados só analisarão os vencedores na segunda fase. E os mentores só vão pontuar na primeira fase.*
 
 Sendo que o peso da pontuação é exatamente o da ordem da lista acima, ou seja, o produto final precisa apresentar uma boa experiência de usuário e funcionar perfeitamente.
 
