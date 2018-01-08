@@ -13,6 +13,19 @@ A organização do evento conta com uma `bancada organizadora` e uma `bancada av
 * a bancada organizadora é constituída pelas pessoas que fazem o evento acontecer, como responsáveis pelo site, divulgação, organização e resposta a dúvidas das pessoas que competirão.
 * a bancada avaliadora é um time de pessoas com alto skill técnico que irá votar nos melhores projetos entregues pelas pessoas que estão competindo.
 
+## Datas importantes:
+
+Data | Descrição
+------------ | -------------
+15/11/2017 | Início das inscrições para mentores.
+Em breve | Início das inscrições dos participantes, em issues que criaremos.
+31/01/2018 até 23:59 | Fim do período de inscrições dos mentores e participantes.
+04/02/2018 | Fim do período de confirmação de pagamento da taxa de inscrição dos participantes.
+09/02/2018 - 20hrs | Início do Hackacenter.
+11/02/2018 - 20hrs | Fim do Hackacenter e início das avaliações dos mentores.
+16/02/2018 - 20hrs | Fim da primeira fase e início da avaliação dos juízes.
+19/02/2018 - 20hrs | Fim da segunda fase e anúncio do vencedor.
+
 ## 1 - Formato
 
 Nosso evento é 100% online.
